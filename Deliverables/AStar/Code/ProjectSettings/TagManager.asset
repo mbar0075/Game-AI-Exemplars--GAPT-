@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Tower
+  - Enemy
+  - GameManager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - BackGround
+  - EnemyGround
+  - TowerGround
+  - TowerEnemyWeapon
+  - Cursor
+  - Tower
+  - Weapon
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackGround
+    uniqueID: 142955917
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: EnemyGround
+    uniqueID: 1729666813
+    locked: 0
+  - name: TowerGround
+    uniqueID: 140194013
+    locked: 0
+  - name: Towers, Enemies and Weapons
+    uniqueID: 2332425363
+    locked: 0

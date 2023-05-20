@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Pac-Man.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 64eabd2bd87ad004880811e96161586f
+  - enabled: 1
+    path: Assets/Scenes/Winner.unity
+    guid: 5166d1d366484a748929aa3838567167
+  m_configObjects: {}

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1aeed55d5018f9479a1f31ffa94700b, type: 3}
+  m_Name: New Evade Object
+  m_EditorClassIdentifier: 
+  maxSpeed: 5
+  maxForce: 0.1
+  acceleration: {x: 0, y: 0, z: 0}
+  velocity: {x: -2.1201477, y: -4.2288575, z: 0}
+  location: {x: -17.8327, y: -18.064621, z: 0}
+  startPosition: {x: -17.81899, y: -18.037277, z: 0}
+  prediction: {x: 0, y: 1.8293523, z: 0}

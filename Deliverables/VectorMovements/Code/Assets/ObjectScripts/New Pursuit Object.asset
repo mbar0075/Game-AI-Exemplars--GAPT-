@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1dd0b319f3dc7bc488fe0960fa8cab4d, type: 3}
+  m_Name: New Pursuit Object
+  m_EditorClassIdentifier: 
+  maxSpeed: 5
+  maxForce: 0.005
+  mainCamera: {fileID: 2922436464474216865, guid: 5ebfcc9a644a73e4a898ea9fee212fa4, type: 3}
