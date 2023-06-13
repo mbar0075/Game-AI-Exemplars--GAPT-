@@ -13,62 +13,62 @@ The task involved the creation of small exemplars that were used to introduce Ga
 
 ## Demos:
 
-### Tic-Tac-Toe
+### Game 1: Tic-Tac-Toe
 
 https://github.com/mbar0075/Game-AI-Exemplars--GAPT-/assets/103250564/f15ce20c-375b-4999-8b06-e4f38b44bdda
 
-### Space Invaders Movement
+### Game 2: Space Invaders Movement
 
 
 https://github.com/mbar0075/Game-AI-Exemplars--GAPT-/assets/103250564/a473362b-d7b5-448a-8b7c-8ec8c7246f72
 
 
-### Waypoint Navigation
+### Game 3: Waypoint Navigation
 
 
 https://github.com/mbar0075/Game-AI-Exemplars--GAPT-/assets/103250564/8cf908e7-c777-41dd-8687-9dd3b910be6d
 
-### Vector Field Pathfinding
+### Game 4: Vector Field Pathfinding
 
 
 https://github.com/mbar0075/Game-AI-Exemplars--GAPT-/assets/103250564/0c0e4f03-f7a7-493d-a3df-bf0acbccb367
 
-### Vector Movements
+### Game 5: Vector Movements
 
 
 https://github.com/mbar0075/Game-AI-Exemplars--GAPT-/assets/103250564/7e547c33-8406-47a6-a605-2349969df3f7
 
-### Flocking
+### Game 6: Flocking
 
 
 https://github.com/mbar0075/Game-AI-Exemplars--GAPT-/assets/103250564/cf199b89-e0f5-479d-83b9-884dff88df36
 
-### Procedural Dungeon Generation
+### Game 7: Procedural Dungeon Generation
 
 
 https://github.com/mbar0075/Game-AI-Exemplars--GAPT-/assets/103250564/969d02a6-d6d1-4dd5-a1a6-48e99b794273
 
-### Cellular Automata Maze
+### Game 8: Cellular Automata Maze
 
 
 https://github.com/mbar0075/Game-AI-Exemplars--GAPT-/assets/103250564/48d21c3f-8f39-4828-a48d-ab3b009bf082
 
-### A-Star Pathfinding
+### Game 9: A-Star Pathfinding
 
 
 https://github.com/mbar0075/Game-AI-Exemplars--GAPT-/assets/103250564/b7022165-257d-4b85-a463-62d3a4a8dc79
 
-### Genetic Algorithms
+### Game 10: Genetic Algorithms
 
 
 https://github.com/mbar0075/Game-AI-Exemplars--GAPT-/assets/103250564/482b3b4b-75d8-484f-924e-483c97dd4025
 
-### Finite State Machines
+### Game 11: Finite State Machines
 
 
 https://github.com/mbar0075/Game-AI-Exemplars--GAPT-/assets/103250564/d3cce047-6e2b-4242-858b-a0a3d6a940f3
 
-### Fuzzy Logic
+### Game 12: Fuzzy Logic
 
 
 https://github.com/mbar0075/Game-AI-Exemplars--GAPT-/assets/103250564/fc5cea10-e574-4047-a5ab-385883c1bcfa
