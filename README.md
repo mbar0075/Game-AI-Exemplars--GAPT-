@@ -76,4 +76,4 @@ https://github.com/mbar0075/Game-AI-Exemplars--GAPT-/assets/103250564/fc5cea10-e
 
 
 ## Deliverables:
-The repository includes the Group Assigned Practical Task produced in 2023<br />
+**The repository includes the Group Assigned Practical Task produced in 2023** <br />
